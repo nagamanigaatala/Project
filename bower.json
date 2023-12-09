@@ -1,0 +1,23 @@
+{
+  "name": "toll-calculator",
+  "description": "",
+  "main": "server.js",
+  "authors": [
+    "Servio Mora <servio.mora19@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/Serviox19/Toll-Calculator",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "angular": "^1.5.5",
+    "angular-ui-router": "^0.3.0",
+    "font-awesome": "fontawesome#^4.6.3"
+  }
+}
